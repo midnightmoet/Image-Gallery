@@ -54,3 +54,14 @@ body {
     box-shadow: 0 5px 5px white;
     font-weight: bold;
   }
+
+  #image {
+    display: grid;
+    width: 50vw;
+    height: 50vh;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    object-fit: cover;
+    border-radius: 5px;
+  }
